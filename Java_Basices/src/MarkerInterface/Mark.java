@@ -1,6 +1,6 @@
 package MarkerInterface;
 
-public class Mark {
+public class Mark implements A {
 	String name = "logesh";
 
 }
